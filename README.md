@@ -1,7 +1,6 @@
 
-      ![visitors](https://page-views.glitch.me/badge?page_id=mhasan341.mhasan341)
+![visitors](https://page-views.glitch.me/badge?page_id=mhasan341.mhasan341)
 
-    <br></br>
 <p align="center">
   <kbd><img width="200" height="200" src="https://github.com/mhasan341/mhasan341/blob/1787d158d74a32b4b20b9f14033a2befec322dfc/images/powercharting.gif"></kbd>
  &emsp;
