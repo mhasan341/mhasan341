@@ -1,5 +1,5 @@
 <a href="https://visitor-badge.glitch.me/">
-      <img align="center" src="https://page-views.glitch.me/badge?page_id=mhasan341.mhasan341">
+      <img src="https://page-views.glitch.me/badge?page_id=mhasan341.mhasan341">
     </a>
     <br></br>
 <p align="center">
