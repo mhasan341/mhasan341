@@ -11,7 +11,7 @@ I’m a skilled App Developer with over 5 years experience in mobile app creatio
 # 📊 GitHub Stats:
 ![](https://awesome-github-stats.azurewebsites.net/user-stats/mhasan341)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mhasan341&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan341&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan341)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mhasan341&theme=nord&no-frame=true&no-bg=false&margin-w=4)
