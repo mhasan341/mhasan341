@@ -3,7 +3,7 @@ I’m a skilled App Developer with over 5 years experience in mobile app creatio
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/mhasan341/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mhasan341/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/mhasan341/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhasan341/) 
 <a href="mailto:mhasan341@gmail.com"><img src="https://github.com/mhasan341/mhasan341/blob/102476862e8c97f926af17128d8164a19321ffb1/images/mail-line.svg"></a>
 
 # 💻 Tech Stack:
