@@ -1,5 +1,11 @@
 # 💫 About Me:
-I’m a skilled App Developer with over 5 years experience in mobile app creation.<br>I specialize in native app development and have built many apps for clients across the globe with unwavering success and satisfaction. <br>Acquired 100k+ downloads on an app that I developed for Winnipeg, Canada.<br><br>I’m happy to take on any challenge, like when I developed the first university admissions portal for all of Bangladesh, and I’m happy to hear what you need to accomplish.<br>So please, send me your proposal, and let’s see what we can build together.
+Experienced iOS Developer with a passion for crafting elegant and innovative mobile applications. With over 4 years of industry experience, I have honed my skills in Swift, SwiftUI, Firebase, Realm, Git, GraphQL, MongoDB, Agile Development and CoreML. I have successfully developed e-commerce and social media apps, integrating cutting-edge technologies such as machine learning for content filtering.
+
+Collaborating with diverse teams, including startups and global clients, I have delivered high-quality solutions while optimizing app performance. I thrive in fast-paced environments and leverage my strong command of Xcode, Instruments, and LLDB to develop efficient and robust applications.
+
+As a proactive learner, I stay at the forefront of the ever-evolving iOS ecosystem, continuously updating my skills through self-study and staying updated with the latest industry trends. I am driven by a strong desire to create exceptional user experiences and constantly seek new challenges to further enhance my expertise.
+
+If you're looking for a skilled iOS Developer who can bring creativity, dedication, and a strong attention to detail to your team, let's connect. I'm open to new opportunities and excited to contribute to the next generation of groundbreaking apps.
 
 
 ## 🌐 Socials:
