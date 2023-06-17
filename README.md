@@ -19,8 +19,6 @@ If you're looking for a skilled iOS Developer who can bring creativity, dedicati
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mhasan341&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan341)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mhasan341&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
