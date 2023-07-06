@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced iOS Developer with a passion for crafting elegant and innovative mobile applications. With over 4 years of industry experience, I have honed my skills in Swift, SwiftUI, Firebase, Realm, Git, GraphQL, MongoDB, Agile Development and CoreML. I have successfully developed e-commerce and social media apps, integrating cutting-edge technologies such as machine learning for content filtering.
+Experienced iOS Developer with a passion for crafting elegant and innovative mobile applications. With over 5 years of industry experience, I have honed my skills in Swift, SwiftUI, Firebase, Realm, Git, GraphQL, MongoDB, Agile Development and CoreML. I have successfully developed e-commerce and social media apps, integrating cutting-edge technologies such as machine learning for content filtering.
 
 Collaborating with diverse teams, including startups and global clients, I have delivered high-quality solutions while optimizing app performance. I thrive in fast-paced environments and leverage my strong command of Xcode, Instruments, and LLDB to develop efficient and robust applications.
 
