@@ -25,4 +25,4 @@ If you're looking for a skilled iOS Developer who can bring creativity, dedicati
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
-![visitors](https://page-views.glitch.me/badge?page_id=mhasan341.mhasan341)
+![](https://komarev.com/ghpvc/?username=mhasan341)
