@@ -2,9 +2,9 @@ I’m a Senior Software Engineer and Mobile Architect focused on building high-p
 
 Impact at scale:
 <li>
-  <ol>Namazi (Flutter): 2.1M+ Android downloads, 47K+ on iOS</ol>
-  <ol>Trapspy: 100K+ users with real-time, location-based features</ol>
-  <ol>Enterprise systems: Built and maintained inventory solutions for 5-star Britannia Hotel operations</ol>
+  Namazi (Flutter): 2.1M+ Android downloads, 47K+ on iOS
+  Trapspy: 100K+ users with real-time, location-based features
+  Enterprise systems: Built and maintained inventory solutions for 5-star Britannia Hotel operations
 </li> 
 
 
